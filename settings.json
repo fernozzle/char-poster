@@ -1,0 +1,9 @@
+{
+	'flaPath': '1-fla/',
+	'pngPath': '2-png/',
+	'imageSettings': {
+		'scale': 1,
+		'margin': 20
+	},
+	'ignoredNames': ['dghf', 'ghgfd', 'fghhg']
+}
